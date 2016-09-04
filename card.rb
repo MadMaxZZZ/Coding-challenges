@@ -48,5 +48,5 @@ end
 deck = Deck.new
 deck.shuffle
 deck.deal 
-deck.output
+
 
